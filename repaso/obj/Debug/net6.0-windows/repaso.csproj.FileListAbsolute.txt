@@ -1,0 +1,17 @@
+C:\Users\gerso\source\repos\repaso\repaso\bin\Debug\net6.0-windows\repaso.exe
+C:\Users\gerso\source\repos\repaso\repaso\bin\Debug\net6.0-windows\repaso.deps.json
+C:\Users\gerso\source\repos\repaso\repaso\bin\Debug\net6.0-windows\repaso.runtimeconfig.json
+C:\Users\gerso\source\repos\repaso\repaso\bin\Debug\net6.0-windows\repaso.dll
+C:\Users\gerso\source\repos\repaso\repaso\bin\Debug\net6.0-windows\repaso.pdb
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.csproj.AssemblyReference.cache
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.Form1.resources
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.csproj.GenerateResource.cache
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.AssemblyInfoInputs.cache
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.AssemblyInfo.cs
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.dll
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\refint\repaso.dll
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.pdb
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\repaso.genruntimeconfig.cache
+C:\Users\gerso\source\repos\repaso\repaso\obj\Debug\net6.0-windows\ref\repaso.dll
